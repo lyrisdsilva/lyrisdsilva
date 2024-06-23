@@ -13,11 +13,14 @@
 </p>
 
 ## Language and Tools:
-<p align="auto">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src=" https://www.w3schools.com/css/css.png " alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-
-</p>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrisdsilva&layout=compact)](https://github.com/lyrisdsilva/github-readme-stats)
