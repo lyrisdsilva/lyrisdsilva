@@ -18,3 +18,4 @@
 
 </p>
 
+[![Lyris's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyrisdsilva)](https://github.com/lyrisdsilva/github-readme-stats)
