@@ -18,6 +18,7 @@
 
 </p>
 
-
+<p align="top">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrisdsilva&layout=compact)](https://github.com/lyrisdsilva/github-readme-stats)
+</p>
 [![Lyris's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyrisdsilva)](https://github.com/lyrisdsilva/github-readme-stats) 
