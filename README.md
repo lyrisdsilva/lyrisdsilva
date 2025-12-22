@@ -56,9 +56,7 @@
   <img src="https://img.icons8.com/color/48/php.png" width="40"/>
 </a>
 
-<a href="https://www.postman.com" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman-api.png" width="40"/>
-</a>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 <a href="https://www.python.org" target="_blank">
   <img src="https://img.icons8.com/color/48/python.png" width="40"/>
