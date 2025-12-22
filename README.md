@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lyris Dsilva</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Hi, I'm <strong>Ynez Dias</strong> 👋</h1>
+<h3 align="center">Computer Science Graduate Student • Software Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyrisdsilva&label=Profile%20views&color=0e75b6&style=flat" alt="lyrisdsilva" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ynezdias&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
 
 - 🔭 I’m currently working on **Projects**
 
