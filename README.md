@@ -19,6 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/dsilvalyris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dsilvalyris" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lyrisdsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyrisdsilva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lyrisdsilva" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" /></a>
+<a href="https://twitter.com/dsilvalyris" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="48" /></a>
 <a href="mailto:dsilvalyris@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" /></a>
 </p>
 
