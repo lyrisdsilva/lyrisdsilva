@@ -68,9 +68,11 @@
   <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
 </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyrisdsilva&show_icons=true&locale=en&layout=compact" alt="lyrisdsilva" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyrisdsilva&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrisdsilva&layout=compact&hide_border=true" height="160"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyrisdsilva&show_icons=true&locale=en" alt="lyrisdsilva" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyrisdsilva&" alt="lyrisdsilva" /></p>
-  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyrisdsilva&hide_border=true" height="160"/>
+</p>
