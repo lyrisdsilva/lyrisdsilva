@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Graduate Student • Software Developer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ynezdias&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lyrisdsilva&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
 - 🔭 I’m currently working on **Projects**
