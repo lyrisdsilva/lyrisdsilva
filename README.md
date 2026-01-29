@@ -69,10 +69,10 @@
 </a></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyrisdsilva&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrisdsilva&layout=compact&hide_border=true" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lyrisdsilva&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrisdsilva&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyrisdsilva&hide_border=true" height="160"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=lyrisdsilva&hide_border=true" />
 </p>
