@@ -68,11 +68,10 @@
   <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
 </a></p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lyrisdsilva&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrisdsilva&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=lyrisdsilva&hide_border=true" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
