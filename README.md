@@ -61,10 +61,4 @@
 <a href="https://git-scm.com" target="_blank" style="text-decoration:none;">
   <img src="https://img.icons8.com/color/48/git.png" width="40"/>
 </a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
-</a>
-<a href="https://react.dev" target="_blank">
-  <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
-</a>
 </p>
